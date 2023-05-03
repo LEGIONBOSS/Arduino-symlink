@@ -14,6 +14,9 @@ mklink import.h ..\lib\import.h
 
 PAUSE
 ```
+
+Output
+
 ```cmd
 Arduino-symlink-test\src>mklink import.h ..\lib\import.h
 symbolic link created for import.h <<===>> ..\lib\import.h
