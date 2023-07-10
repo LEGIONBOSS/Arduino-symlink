@@ -6,6 +6,8 @@
 
 ## Link to file
 
+CMD
+
 ```cmd
 @ECHO OFF
 
@@ -23,6 +25,8 @@ symbolic link created for import.h <<===>> ..\..\lib\import.h
 ```
 
 ## Link to folder
+
+CMD
 
 ```cmd
 @ECHO OFF
