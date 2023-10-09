@@ -8,6 +8,6 @@ void setup()
 
 void loop()
 {
-    Serial.printf("Number: %d, String: %s\n");
+    Serial.printf("Number: %d, String: %s\n", NUMBER, TEXT);
     delay(1000);
 }
